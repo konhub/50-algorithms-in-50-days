@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main{
+public class RandomGuess{
     static void maingame() {
         Random rand = new Random();
         Scanner input = new Scanner(System.in);
